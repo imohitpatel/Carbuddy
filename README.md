@@ -4,7 +4,7 @@
 <h2></h2><br>
 
 <p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
+  <img src="assests/nightlife.gif" width="900px" alt="Lofi Nightlight scene" /> 
 </p>
 
 ---
