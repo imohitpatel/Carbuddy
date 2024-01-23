@@ -1,9 +1,39 @@
+<!-- My Readme Profile!
+I have spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
+
+**Acknowledgements**
+Awesome Readme Templates
+Awesome README
+How to write a Good readme
+
+**Authors**
+@imohitpatel
+
+**Deployment**
+Creating a README on GitHub is a simple process. Here are the steps:
+
+Click the "Create new file" button located in a new github repository (your username).
+
+In the "Name your file" field, enter "README.md" (without the quotes).
+
+Feel free to copy and paste anything you liked from my readme (Customizing it to fit your own theme and stats)
+
+Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
+
+Your README will now be visible on the main page of your repository! -->
+
+<!--Changing text in different languages-->
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1200&height=50&lines=नमस्ते%2Cमैं+मोहित+हूं%2Cमेरी+रूपरेखा+में+आपका+स्वागत+है;ओ+वोस+पसंद+आए+तो🌟+देना+सामझऎ;Hello%2C+I'm+Mohit+Welcome+to+my+Profile;Bonjour%2Cje+m'appelle+Mohit+Bienvenue+sur+mon+profil;Hallo%2Cich+bin+Mohit.+Willkommen+auf+meinem+Profil;こんにちは、+私はモヒットです+私のプロフィールへようこそ!;안녕하세요.+저는+모히트입니다.+내+프로필에+오신+것을+환영합니다.;नमस्कार+अहं+मोहितः+मम+प्रोफाइले+स्वागतम्;नमस्कार%2Cमी+मोहित+आहे%2Cमाझ्या+प्रोफाइलमध्ये+स्वागत+आहे;હેલો%2Cહું+મોહિત+છું+મારી+પ્રોફાઇલમાં+આપનું+સ્વાગત+છે;" align="middle" alt=", I'm Mohit Welcome to my Profile! animated typed out">
 
+<!--blue striking border-->
 <img  src="assests/borderseperator.gif">
 
+<!--hero banner -->
 <img  width="1080px" src="assests/moh.png">
+<!-- Social Media link with icons-->
 <p align="center">
+
+<!---->
   <a href="https://youtube.com/@moh-is-here?si=ZfxhW-y-c7d4_1Wi"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
