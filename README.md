@@ -72,7 +72,6 @@ Your README will now be visible on the main page of your repository! -->
 <!--My stats-->
 <h3 align="left">🔥   My Stats :</h3>
 
-<h2></h2><br>
 <!--gitcat character changing gif -->
 <p align="center"> 
   <img src="assests/gitcat.gif" height="200px" alt="gitcat scene" /> 
@@ -103,5 +102,5 @@ If 💙 , Good to express as ⭐ and Share it with fellow Developer!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- headache, debugging-->
 <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- normal ,Lightsmile -->
-<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 <!-- happy and shocked -->
