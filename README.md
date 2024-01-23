@@ -69,7 +69,7 @@ Your README will now be visible on the main page of your repository! -->
 
 ###
 <!--My stats-->
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <h2></h2><br><!-- for light divider line-->
 <img align="left" width="50%" src="assests/gitcat.gif"/>
@@ -77,13 +77,7 @@ Your README will now be visible on the main page of your repository! -->
   <a href="https://github.com/imohitpatel"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=imohitpatel&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/imohitpatel"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=imohitpatel&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&locale=en&hide_title=false&layout=compact&card_width=310&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-  ###
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=imohitpatel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&locale=en&hide_title=false&layout=compact&card_width=310&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 
 <!-- your thoughts -->
 <p align="center">
