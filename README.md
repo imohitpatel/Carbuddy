@@ -49,9 +49,9 @@ Your README will now be visible on the main page of your repository! -->
 <h3>Technical way to communicate by</h3>
 
 ###
-
+<!--Language framework from skillicons.dev-->
 <p align="center">
-  <a href="#">
+  <a href="#"><!--add your stack and software-->
     <img src="https://skillicons.dev/icons?i=html,css,js,python,c,matlab,flask,django,react,mysql,gcp,aws,bots,ai&perline=17" />
   </a>
 </p>
@@ -61,17 +61,19 @@ Your README will now be visible on the main page of your repository! -->
     </a>
 </p>
 
-<h2></h2><br>
-
+<h2></h2><br><!-- for light divider line-->
+<!--night time gif -->
 <p align="center"> 
   <img src="assests/nightlife.gif" height="300px" width="900px" alt="Lofi Nightlight scene" /> 
 </p>
 
 ###
-<h2></h2><br>
+<h2></h2><br><!-- for light divider line-->
+<!--My stats-->
 <h3 align="left">🔥   My Stats :</h3>
 
 <h2></h2><br>
+<!--gitcat character changing gif -->
 <p align="center"> 
   <img src="assests/gitcat.gif" height="200px" alt="gitcat scene" /> 
 </p>
@@ -86,18 +88,20 @@ Your README will now be visible on the main page of your repository! -->
   <img src="https://streak-stats.demolab.com?user=imohitpatel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
+<!-- your thoughts -->
 <p align="center">
 If 💙 , Good to express as ⭐ and Share it with fellow Developer!
 <h1 align='center'>⚡️<i>Just Rock!</i>⚡️</h1>
 
-<p align="">
+<p align="left">
+<!-- coding mode -->
 <h1 align=left >Code Cycle</h1><br>
 <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- headache, debugging-->
 <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- normal ,Lightsmile -->
 <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
+<!-- happy and shocked -->
+<!-- memes of Rock-->
 <img align="right" height="200px" src="https://media.tenor.com/Y2b7jWqgpvEAAAAM/the-rock.gif"/>
 </p>
