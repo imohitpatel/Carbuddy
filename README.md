@@ -2,6 +2,11 @@
 <img  src="assests/borderseperator.gif">
 
 <h2></h2><br>
+<p align="left"> 
+  <img src="assests/gitcat.gif" height="200px" alt="gitcat scene" /> 
+</p>
+
+
 <h3>Technical way to communicate by</h3>
 
 ###
