@@ -66,6 +66,10 @@ Your README will now be visible on the main page of your repository! -->
 <p align="center"> 
   <img src="assests/nightlife.gif" height="300px" width="900px" alt="Lofi Nightlight scene" /> 
 </p>
+<!--changing text-->
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Mohit;He+is;Always+Looking;to+Develop;From;Imagination:3;A+Bit+From+Inspiration+%3C3" alt="Always looking 👨🏻‍💻to Develop from 🌌imagination"></a>
+</div>
 
 ###
 <!--My stats-->
