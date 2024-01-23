@@ -33,17 +33,22 @@ Your README will now be visible on the main page of your repository! -->
 <!-- Social Media link with icons-->
 <p align="center">
 
-<!---->
+<!--youtube-->
   <a href="https://youtube.com/@moh-is-here?si=ZfxhW-y-c7d4_1Wi"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--twitter-->
   <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!--discord-->
   <a href="https://discord.gg/" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!--dev community medium-->
   <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!--buy me coffee-->
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!--patreon-->
   <a href="https://www.patreon.com/"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
