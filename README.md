@@ -22,3 +22,11 @@
         <img src="https://skillicons.dev/icons?i=visualstudio,replit,discord,github&perline=8" />
     </a>
 </p>
+
+---
+<p align="center">
+If 💙 , Good to express as ⭐ and Share it with fellow Developer!
+<h1 align='center'>⚡️<i>Just Rock!</i>⚡️</h1>
+<p align="center">*
+<img src="https://media.tenor.com/Y2b7jWqgpvEAAAAM/the-rock.gif"/>
+</p>
