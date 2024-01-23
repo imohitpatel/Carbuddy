@@ -2,7 +2,7 @@
 
 <img  src="assests/borderseperator.gif">
 
-<img  src="assests/borderseperator.gif">
+<img  src="assests/moh.png">
 
 <h3>Technical way to communicate by</h3>
 
