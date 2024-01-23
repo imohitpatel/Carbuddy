@@ -79,10 +79,14 @@ Your README will now be visible on the main page of your repository! -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&locale=en&hide_title=false&layout=compact&card_width=310&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 
+---
+
 <!-- your thoughts -->
-<p align="center">
+<p align="center"> 
 If 💙 , Good to express as ⭐ and Share it with fellow Developer!
 
+  ---
+  
 <!-- memes of Rock-->
 <h1 align='right'>⚡️<i>Just Rock!</i>⚡️</h1>
 
