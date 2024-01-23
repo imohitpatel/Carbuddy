@@ -91,17 +91,17 @@ Your README will now be visible on the main page of your repository! -->
 <!-- your thoughts -->
 <p align="center">
 If 💙 , Good to express as ⭐ and Share it with fellow Developer!
-<h1 align='center'>⚡️<i>Just Rock!</i>⚡️</h1>
 
-<p align="left">
+<!-- memes of Rock-->
+<h1 align='right'>⚡️<i>Just Rock!</i>⚡️</h1>
+
+<img align="right" width="38%" src="https://media.tenor.com/Y2b7jWqgpvEAAAAM/the-rock.gif"/>
+</p>
 <!-- coding mode -->
-<h1 align=left >Code Cycle</h1><br>
+<h1 align=left >Code Cycle</h1>
 <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- headache, debugging-->
 <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- normal ,Lightsmile -->
 <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 <!-- happy and shocked -->
-<!-- memes of Rock-->
-<img align="right" height="200px" src="https://media.tenor.com/Y2b7jWqgpvEAAAAM/the-rock.gif"/>
-</p>
