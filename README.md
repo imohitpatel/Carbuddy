@@ -68,22 +68,20 @@ Your README will now be visible on the main page of your repository! -->
 </p>
 
 ###
-<h2></h2><br><!-- for light divider line-->
 <!--My stats-->
 <h3 align="left">🔥   My Stats :</h3>
 
-<!--gitcat character changing gif -->
-<p align="center"> 
-  <img src="assests/gitcat.gif" height="200px" alt="gitcat scene" /> 
-</p>
+<h2></h2><br><!-- for light divider line-->
+<img align="left" width="50%" src="assests/gitcat.gif"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imohitpatel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/imohitpatel"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=imohitpatel&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/imohitpatel"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=imohitpatel&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&locale=en&hide_title=false&layout=compact&card_width=310&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
   ###
 
-<div align="center">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=imohitpatel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
