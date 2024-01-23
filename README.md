@@ -79,6 +79,9 @@ Your README will now be visible on the main page of your repository! -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imohitpatel&locale=en&hide_title=false&layout=compact&card_width=310&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imohitpatel&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
 <!-- your thoughts -->
