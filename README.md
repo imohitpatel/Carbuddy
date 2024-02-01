@@ -32,6 +32,18 @@ Your README will now be visible on the main page of your repository! -->
 <img  width="1080px" src="assests/moh.png">
 
 <!-- Social Media link with icons-->
+## 🙋🏻‍♂️ Let's Connect
+
+<p align="center">
+	<a href="https://imohitpatel.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/imohitpatel" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/imohitpatel/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/mo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/imohitpatel/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:mohitpatel121214@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+
+
 <p align="center"><!--youtube-->
   <a href="https://youtube.com/@moh-is-here?si=ZfxhW-y-c7d4_1Wi"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;<!--twitter-->
